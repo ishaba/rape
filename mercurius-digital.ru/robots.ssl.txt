@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mercurius-digital.ru/sitemap.xml

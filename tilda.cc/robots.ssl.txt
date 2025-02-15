@@ -1,0 +1,14 @@
+User-agent: Yandex
+Disallow: /projects/
+Disallow: /page/?pageid=*
+Host: https://tilda.cc/
+Sitemap: https://tilda.cc/sitemap.xml
+Clean-param: upm
+Clean-param: startwithexample
+Clean-param: projectid
+Clean-param: r /ru/
+
+User-agent: *
+Disallow: /projects/
+Disallow: /page/?pageid=*
+Sitemap: https://tilda.cc/sitemap.xml
